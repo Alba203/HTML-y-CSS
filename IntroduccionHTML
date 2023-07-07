@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
+    <div>
+      <h2>Lista de vídeos favoritos de Youtube</h2>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=m03nSYov8as">Anécdotas de la gira de Estirando el Chicle</a></li>
+        <li><a href="https://www.youtube.com/watch?v=nyaFnYfnvqk">Así es VIVIR CON AUTISMO: Lo que no sabíamos | Tenía la Duda 3x08</a></li>
+        <li><a href="https://www.youtube.com/watch?v=pu4RIQyFlhI">ROMANTIZAR la VIDA con Beta Coqueta | Reyes del Palique 4x37</a></li>
+      </ul>
+    </div>
+</body>
+</html>
