@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio tema 3</title>
+</head>
+<body>
+    <div>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="https://nintenduo.com/wp-content/uploads/2023/03/Novedades-Zelda-Tears-Kingdom-01-1200x900.webp" alt="Link la saga Zelda" width="350" height="300">
+    </div>
+
+    <div>
+        <h1>Aprendiendo a utlizar los vídeos</h1>
+        <video controls autoplay loop muted>
+            <source src="AlgoBonito.mp4" alt="Algo Bonito Andrés Obregón" type="video/mp4">
+        </video>
+    </div>
+
+    <div>
+        <h1>Aprendiendo a utilizar los audios</h1>
+        <audio controls autoplay loop>
+            <source src="SinMaquillar.mp3" alt="sin maquillar" type="audio/mp3">
+        </audio>
+    </div>
+</body>
+</html>
